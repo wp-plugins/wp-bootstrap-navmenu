@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: sajjadrad
-Tags: bootstrap, wordpress nav menu
+Tags: bootstrap, wordpress navmenu
 Requires at least: 3.0.1
 Tested up to: 3.4
 License: GPLv2 or later
@@ -10,7 +10,8 @@ Convert Wordpress nav menu to Twitter Bootstrap style.
 
 == Description ==
 
-WP Bootstrap navmenu convert wordpress nav menu style to Twitter Bootsrap [http://twitter.github.com/bootstrap/] navmenu style.
+WP Bootstrap Menu convert wordpress nav menu style to Twitter Bootsrap [http://twitter.github.com/bootstrap/] navmenu style.
+You can join to WP Bootstrap Menu developing [https://github.com/sajjadrad/wp-bootstrap-navmenu]
 
 == Installation ==
 
