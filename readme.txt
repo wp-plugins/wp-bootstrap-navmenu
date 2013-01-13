@@ -10,7 +10,7 @@ Convert Wordpress nav menu to Twitter Bootstrap style.
 
 == Description ==
 
-WP Bootstrap Menu convert wordpress nav menu style to Twitter Bootsrap [http://twitter.github.com/bootstrap/] navmenu style.
+WP Bootstrap Menu convert wordpress nav menu style to Twitter Bootstrap [http://twitter.github.com/bootstrap/] navmenu style.
 You can join to WP Bootstrap Menu developing [https://github.com/sajjadrad/wp-bootstrap-navmenu]
 
 == Installation ==
