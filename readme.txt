@@ -7,7 +7,6 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Convert Wordpress nav menu to Twitter Bootstrap style.
-for feedback email sajjad[dot]273[at]gmail[dot]com
 
 == Description ==
 
@@ -36,8 +35,8 @@ Example:
 
 == Screenshots ==
 
-1.screenshot_1.jpg
-2.screenshot_2.jpg
+1. **Wordpress Navmenu**
+2. **Output Bootstrap style**
 
 == Changelog ==
 
