@@ -11,7 +11,9 @@ Convert Wordpress nav menu to Twitter Bootstrap style.
 == Description ==
 
 WP Bootstrap Menu convert wordpress nav menu style to Twitter Bootstrap [http://twitter.github.com/bootstrap/] navmenu style.
-You can join to WP Bootstrap Menu developing [https://github.com/sajjadrad/wp-bootstrap-navmenu]
+You can join to WP Bootstrap Menu developing [https://github.com/sajjadrad/wp-bootstrap-navmenu] .
+Compatible with Bootstrap 2.2.2 and support sub menu.
+
 
 == Installation ==
 
@@ -34,10 +36,12 @@ Example:
 	</div>
 </code>
 
+
 == Screenshots ==
 
 1. **Wordpress Navmenu**
 2. **Output Bootstrap style**
+3. **Submenu**
 
 == Changelog ==
 
@@ -47,4 +51,8 @@ Example:
 = 0.4.8 =
 * Fix Page title loading in link tag.
 * Fix showing last parent item.
+
+= 1.0.4 =
+* Sub menu supported.
+* Last item showing fixed.
 
