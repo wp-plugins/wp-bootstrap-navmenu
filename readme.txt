@@ -56,3 +56,6 @@ Example:
 * Sub menu supported.
 * Last item showing fixed.
 
+= 1.0.5 =
+* Dropdown hover problem fixed.
+
