@@ -1,7 +1,7 @@
 <?php
 /*
   Plugin Name: WP Bootstrap Menu
-  Version: 1.0.5
+  Version: 1.1.0
   Description: Convert Wordpress nav menu to Twitter Bootstrap style.
   Plugin URI: http://wordpress.org/extend/plugins/wp-bootstrap-navmenu/
   Author: Sajjad Rad
