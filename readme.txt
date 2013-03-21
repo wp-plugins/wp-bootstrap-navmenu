@@ -79,3 +79,6 @@ or:
 = 1.1.0 =
 * Hover or click options for Dropdown items added.
 
+= 1.1.1 =
+* Active class added to active item.
+
