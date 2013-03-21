@@ -20,7 +20,7 @@ Compatible with Bootstrap 2.2.2 and support sub menu.
 1. Upload `wp-bootstrap-navmenu.php` to the `/wp-content/plugins/wp-bootstrap-navmenu/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Style your bootstrap navmenu and place `<?php echo getNavMenu( MENU NAME ); ?>` in your templates to get menu list.
-1. To change options for dropdown item,you can set option argument when calling getNavMenu fucntion.Dropdown has two options,"hover" and "click".In "click" option,dropdown items link address set to # and in "hover" option full address used.The defualt option set to "click".
+1. To change options for dropdown item,you can set option argument when calling getNavMenu function.Dropdown has two options,"hover" and "click".In "click" option,dropdown items link address set to # and in "hover" option full address used.The default option set to "click".
 
 Example:
 <code>
